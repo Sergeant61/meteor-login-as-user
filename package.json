@@ -1,0 +1,15 @@
+{
+  "name": "receptim:login-as-user",
+  "version": "0.2.0",
+  "summary": "Adds methods to let an (admin) user login as another user",
+  "git": "https://github.com/receptim/meteor-login-as-user.git",
+  "api": {
+    "versions": [
+      "2.16",
+      "3.0.2"
+    ]
+  },
+  "devDependencies": {
+    "typescript": "5.4.4"
+  }
+}
